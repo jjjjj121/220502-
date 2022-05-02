@@ -16,6 +16,8 @@ int main()
 	cout << a / b << endl;	//나누기
 	cout << a % b << endl;	//나머지
 
+	//실수형 변수 사칙연산, 나머지 출력하기
+
 	float c = 10.0f;
 	float d = 3.3f;
 	
